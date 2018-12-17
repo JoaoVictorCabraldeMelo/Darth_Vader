@@ -1,0 +1,46 @@
+body, html {
+    color: #FFF;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    font-weight: 700;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    text-transform: uppercase;
+}
+
+.color {
+    background-color: #127cba;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: -1;
+}
+
+.color p {
+    line-height: 15vh;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    vertical-align: middle;
+    z-index: 1;
+}
+
+.color a {
+    z-index: 2;
+}
+
+.sky {
+    color: #FFF;
+    display: block;
+    height: 100%;
+    z-index: -1;
+}
+
+.darth_vader {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 2;
+}

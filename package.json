@@ -1,0 +1,18 @@
+{
+  "name": "merry-christmas-s2",
+  "version": "1.0.0",
+  "description": "I love u Day s2",
+  "main": "snowflakes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "11.2.0"
+  },
+  "keywords": [
+    "Merry",
+    "Christmas"
+  ],
+  "author": "Molinesia",
+  "license": "MIT"
+}
